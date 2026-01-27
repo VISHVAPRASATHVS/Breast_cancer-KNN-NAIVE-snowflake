@@ -17,13 +17,13 @@ A Logistic Regression model is used for classification. The model is trained on 
 Model Performance:
 After training, the model's performance is evaluated on the test set. The key metrics are as follows:
 
-Accuracy
+Accuracy:
 0.9737
 
-Confusion Matrix
+Confusion Matrix:
 [[70  1]
  [ 2 41]]
-Classification Report
+Classification Report:
               precision    recall  f1-score   support
 
            0       0.97      0.99      0.98        71
